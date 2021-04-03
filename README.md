@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### Hi there I'm Shane
+  # Hi there I'm Shane
 
   #### I make apps for the internet
 
